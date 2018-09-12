@@ -1,0 +1,21 @@
+PODS:
+  - YDCategory (1.0.0)
+
+DEPENDENCIES:
+  - YDCategory (from `https://github.com/wuyezhiguhun/YDCategory.git`)
+
+EXTERNAL SOURCES:
+  YDCategory:
+    :git: https://github.com/wuyezhiguhun/YDCategory.git
+
+CHECKOUT OPTIONS:
+  YDCategory:
+    :commit: 8f73c8930df6087a1dd7ffe3f21b0d37cadcf60f
+    :git: https://github.com/wuyezhiguhun/YDCategory.git
+
+SPEC CHECKSUMS:
+  YDCategory: f41a161102add6ccebc219661d1cbdf99571a166
+
+PODFILE CHECKSUM: a106fe76c2b211eb96dc89bb40157c92dac48d89
+
+COCOAPODS: 1.5.0
